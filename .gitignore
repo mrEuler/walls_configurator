@@ -1,0 +1,14 @@
+node_modules
+.idea
+package-lock.json
+
+.DS-Store
+*.DS-Store
+
+Password
+
+Username
+
+.npmrc
+
+*.mov
