@@ -8,6 +8,7 @@ Author Oleksii Maksymov
 
 ## General comments
 * This application is built using g.frame framework, that works above three.js
+* `docs` folder is renamed `dist` folder for GH Pages
 * All UI is done in WebGL, just as a showcase. It's not responsive right now, but can be.
 * Satelite image was downloaded with curl, to serve it on GH Pages. Area is aroound 100x100 meters in US.
 * Currently the is possible to create only one building after page refreshment, but easy to change in codebase, to create many and edit many.
